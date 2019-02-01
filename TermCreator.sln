@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TermCreator", "TermCreator\TermCreator.pyproj", "{0A73935B-B7CC-47B8-9BA6-0603CA021E35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A73935B-B7CC-47B8-9BA6-0603CA021E35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A73935B-B7CC-47B8-9BA6-0603CA021E35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E2E15B6-1F72-4AF8-8DB8-0704F95B6BCD}
+	EndGlobalSection
+EndGlobal
